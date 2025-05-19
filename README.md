@@ -3,6 +3,6 @@ Educativo y de Aprendizaje Personal
 
 # Instalar Dependencias
 
-´´´bash´´´
+```bash
 
 pip install -r requeriments.txt
